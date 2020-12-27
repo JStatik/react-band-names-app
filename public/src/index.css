@@ -1,0 +1,7 @@
+body::-webkit-scrollbar {
+    display: none;
+}
+
+button {
+    width: 100%;
+}
